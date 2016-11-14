@@ -3,7 +3,7 @@ The GoPiGo is a delightful and complete robot for the Raspberry Pi that turns yo
 
 ![ GoPiGo ](https://raw.githubusercontent.com/DexterInd/GoPiGo/master/GoPiGo_Chassis-300.jpg)
 
-This repository contains Go library for interacting with the GoPiGo robot. This is a port of python library of GoPigo in Go language.
+This repository contains Go library for interacting with the GoPiGo robot. This is a port of python library of GoPiGo in Go language.
 
 ## Getting Started
 
@@ -61,7 +61,7 @@ func main() {
 API documentation is available at https://godoc.org/github.com/droot/gopigo
 
 ## Credits
-Special Thanks to Dexter Industries for providing [@GoPiGo kit](http://www.dexterindustries.com/shop/gopigo-starter-kit-2/) for the development.
+Special Thanks to Dexter Industries for providing [GoPiGo kit](http://www.dexterindustries.com/shop/gopigo-starter-kit-2/) for the development.
 
 ## Need help ?
  * Issues: https://github.com/droot/gopigo/issues
